@@ -1,7 +1,7 @@
 # 🛒 E-Commerce Sales Dashboard — Power BI
 
-![Dashboard Preview](dashboard-preview.png)
-(dashboard-preview.png)
+![Dashboard Preview](https://github.com/ahmedmirza119-cell/ecommerce-sales-dashboard-powerbi/blob/main/%F0%9F%96%BC%EF%B8%8F%20dashboard-preview.png)
+
 
 
 
